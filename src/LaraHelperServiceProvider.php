@@ -2,6 +2,7 @@
 
 namespace Easoblue\LaraHelper;
 
+use Easoblue\LaraHelper\Facade\StringHelper as StringHelperFacade;
 use Easoblue\LaraHelper\StringHelper;
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider;

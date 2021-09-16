@@ -2,6 +2,8 @@
 
 namespace Easoblue\LaraHelper;
 
+use Illuminate\Support\Facades\DB;
+
 class StringHelper{
 
  	protected $checkUnique = false;
